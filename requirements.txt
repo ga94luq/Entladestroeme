@@ -1,5 +1,4 @@
-pandas
-plotly
-tkinter
-filedialog
 dash
+plotly
+pandas
+tk
